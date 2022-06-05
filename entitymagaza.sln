@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entitymagaza", "entitymagaza\entitymagaza.csproj", "{6BE2BF8B-3304-4B4C-90E1-5C9EDF3B7979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE2BF8B-3304-4B4C-90E1-5C9EDF3B7979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE2BF8B-3304-4B4C-90E1-5C9EDF3B7979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE2BF8B-3304-4B4C-90E1-5C9EDF3B7979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE2BF8B-3304-4B4C-90E1-5C9EDF3B7979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9968E741-FDF3-419C-9F53-1FDE2EC9D975}
+	EndGlobalSection
+EndGlobal
